@@ -1,0 +1,102 @@
+/*
+Template provided by Tetra #202
+Tetra's CSS Guide: https://www.wolvden.com/chatter/topic/15463
+Free for personal and commercial use.
+*/
+
+body /* The HTML body of the page. Great place to put a background/font rule. */ {
+    /* CODE HERE */
+    background: url('https://cdn.pixabay.com/photo/2014/09/21/14/39/surface-455124_1280.jpg');
+    background-size: cover !important;
+}
+
+a {
+  color: #E6E6FA
+}
+
+.navbar-main /* Section containing the site navigation. */ {
+    /* CODE HERE */
+} .navbar-main .nav-link /* Individual navigation links. */ {
+    /* CODE HERE */
+}
+
+.navbar-status /* Status bar containing your currencies, etc. */ {
+    /* CODE HERE */
+}
+
+.breadcrumb-nav /* Gray breadcrumb bar under the status bar. */ {
+    /* CODE HERE */
+}
+
+#sidebar /* Section containing the sidebar. */ {
+    /* CODE HERE */
+} #sidebar .card /* "Card" sections of the sidebar. */ {
+    /* CODE HERE */
+    background: #E6E6FA
+} #sidebar h3, #sidebar h4 /* Card headers. */ {
+    /* CODE HERE */
+}
+
+#main /* Section containing the site's main content. */ {
+    /* CODE HERE */
+} h1 /* Title header. */ {
+    /* CODE HERE */
+} .nav-tabs /* Section containing the Den and Profile links. */ {
+    /* CODE HERE */
+} .nav-tabs .nav-link /* Individual links of the above section. */ {
+    /* CODE HERE */
+} .nav-tabs .nav-link.active /* Link of the page being viewed. */ {
+    /* CODE HERE */
+}
+
+.table /* Tables containing Pack or User information. */ {
+    /* CODE HERE */
+} .table th /* Individual table headers. */ {
+    /* CODE HERE */
+} .subheader /* Subheader row of Cave tables. */ {
+    /* CODE HERE */
+}
+
+.border-none /* Lead Wolf table. */ {
+    /* CODE HERE */
+} .border-none .card /* Card containing the Lead Wolf avatar. */ {
+    /* CODE HERE */
+} .border-none .striped /* Table of stats between the Lead and Featured wolves. */ {
+    /* CODE HERE */
+} .featured-wolf /* Featured wolf section. */ {
+    /* CODE HERE */
+}
+
+.col-6 .card.text-center /* Big buttons under the Lead Wolf table. */ {
+    /* CODE HERE */
+}
+
+.bottom /* Bottom row of the Member Information table. */ {
+    /* CODE HERE */
+} .left /* Lefthand cells of the Member Information tables. */ {
+    /* CODE HERE */
+} .right /* Righthand cells of the Member Information tables. */ {
+    /* CODE HERE */
+}
+
+.alert /* Alerts and notifications that appear at the top of the page. */ {
+    /* CODE HERE */
+}
+
+.progress /* Progress bars. */ {
+    /* CODE HERE */
+} .bg-info /* HP bars. These are blue. */ {
+    /* CODE HERE */
+} .bg-danger /* Hunger bars. These are red. */ {
+    /* CODE HERE */
+} .bg-primary /* Mood bars. These are dark blue. */ {
+    /* CODE HERE */
+} .bg-warning /* Energy bars. These are yellow. */ {
+    /* CODE HERE */
+} .bg-success /* EXP bars. These are green. */ {
+    /* CODE HERE */
+}
+
+#footer /* Copyright content at the page bottom. Don't obscure or mess with it too much. */ {
+    /* CODE HERE */
+}
